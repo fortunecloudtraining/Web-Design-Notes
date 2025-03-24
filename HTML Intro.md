@@ -14,7 +14,8 @@
 1. <!doctype html>
 This declaration defines the document type and version of HTML.
 <!doctype html> specifies that this is an HTML5 document. It should always be the first line in an HTML document.
-2. <html lang="en-US">
+
+3. <html lang="en-US">
 The <html> tag is the root element of an HTML document.
 lang="en-US" specifies that the page content is in English (United States), which helps with accessibility and SEO.
 3. <head>
